@@ -1,2 +1,2 @@
-# dashlem-s-essays
+# thoughts
 A minimalist blog where I post my essays.
